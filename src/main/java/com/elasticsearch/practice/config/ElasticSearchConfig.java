@@ -1,6 +1,6 @@
 package com.elasticsearch.practice.config;
 
-import com.elasticsearch.practice.respository.ClubSearchRepository;
+import com.elasticsearch.practice.respository.elasticsearch.ClubSearchRepository;
 import org.elasticsearch.client.RestHighLevelClient;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.elasticsearch.client.ClientConfiguration;

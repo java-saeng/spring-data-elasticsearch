@@ -1,7 +1,7 @@
 package com.elasticsearch.practice.entity;
 
 import com.elasticsearch.practice.respository.ClubRepository;
-import com.elasticsearch.practice.respository.ClubSearchRepository;
+import com.elasticsearch.practice.respository.elasticsearch.ClubSearchRepository;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;

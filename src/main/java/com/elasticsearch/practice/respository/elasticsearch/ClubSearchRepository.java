@@ -1,4 +1,4 @@
-package com.elasticsearch.practice.respository;
+package com.elasticsearch.practice.respository.elasticsearch;
 
 import com.elasticsearch.practice.entity.Club;
 import org.springframework.data.elasticsearch.repository.ElasticsearchRepository;
